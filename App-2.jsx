@@ -1,9 +1,9 @@
-import JournalHeader from "./components/Header-2";
-import Entry from "./components/Entry";
+import JournalHeader from "./src/Project-2/components/Header-2.jsx";
+import Entry from "./src/Project-2/components/Entry.jsx";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 //import image1 from "../Project-2/images/image1.jpg"
-import data from "./data/data.js";
+import data from "./src/Project-2/data/data.js";
 
 export default function App() {
 
